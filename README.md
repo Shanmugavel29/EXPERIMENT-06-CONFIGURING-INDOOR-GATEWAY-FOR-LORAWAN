@@ -91,5 +91,6 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## Results: 
+    Thus, The output is appeared and given in the images.
 
 
